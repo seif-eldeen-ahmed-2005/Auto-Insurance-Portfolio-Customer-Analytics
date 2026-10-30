@@ -9,14 +9,6 @@ This project transforms raw insurance portfolio data into actionable operational
 
 ---
 
-## 🏗️ End-to-End Data Pipeline Architecture
-
-```text
-┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
-│   Raw Data Sources     │ ───► │  SQL Database (Engine) │ ───► │  Power BI Dashboards   │
-│ (Excel / Power Query)  │      │ (Central Data Store)   │      │ (Visual Analytics)     │
-└────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-
 ## 🚀 Key Features & High-Level KPIs
 
 - **Portfolio Volume:** Manages **$851K in Total Premiums** spanning **27,093 Active Policies** held by **9K Unique Customers**.
